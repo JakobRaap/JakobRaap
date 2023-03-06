@@ -14,5 +14,9 @@ currently i am web developement student at **Neuefische** looking out to learnin
 
 and much more.
 
+Have a look at my **impressive** Github stats
+
+![trophy](https://github-profile-trophy.vercel.app/?username=JakobRaap)
 
 ![Visitor Count](https://profile-counter.glitch.me/JakobRaap/count.svg) people have visited this profile
+
