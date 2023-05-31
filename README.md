@@ -6,7 +6,6 @@ I believe that technology has the power to make a positive impact on society, an
 
 currently i am a web developement student at **Neuefische** 
 
-and much more.
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=JakobRaap)
